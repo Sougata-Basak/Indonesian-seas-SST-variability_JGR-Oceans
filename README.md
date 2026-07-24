@@ -22,8 +22,8 @@ Brief description of what this repository contains and what the paper is about.
 ## Installation
 
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Sougata-Basak/Indonesian-seas-SST-variability_JGR-Oceans.git
+cd Indonesian-seas-SST-variability_JGR-Oceans
 conda env create -f environment.yml
 conda activate <env-name>
 ```
