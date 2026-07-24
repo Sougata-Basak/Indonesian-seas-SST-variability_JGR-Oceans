@@ -41,7 +41,7 @@ All processed data required to reproduce the paper's figures and tables are prov
 | File | Description |
 |---|---|
 | `sst_mean_REMSS-MWIR.nc` | Mean SST, REMSS MW+IR satellite product |
-| `sst_variance_REMSS-MWIR.nc` | Power spectral density / variance decomposition of SST, REMSS MW+IR satellite product. **Access it separately from [here](https://universitytasmania-my.sharepoint.com/:f:/g/personal/sougata_basak_utas_edu_au/IgByiN90qpF0RbEOAVAa6c2qAUkcjWgiimr84vsDfHyOWes?e=OgPrtX) (3.6 GB) or send me an email** |
+| `sst_variance_REMSS-MWIR.nc` | Power spectral density / variance decomposition of SST, REMSS MW+IR satellite product. **Access it separately from [here](https://universitytasmania-my.sharepoint.com/:f:/g/personal/sougata_basak_utas_edu_au/IgByiN90qpF0RbEOAVAa6c2qAUkcjWgiimr84vsDfHyOWes?e=OgPrtX) (3.6 GB) or send me an email.** |
 | `argo1_5903451.nc` | Argo float profiles, Makassar Strait route |
 | `argo2_6901746.nc` | Argo float profiles, Banda Sea |
 | `sst_MITgcm-RYF_cntl.nc` | Mean and standard deviation of SST, `MITgcm-RYF` Control experiment |
