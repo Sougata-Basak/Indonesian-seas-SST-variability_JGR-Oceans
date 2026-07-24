@@ -12,10 +12,11 @@ Brief description of what this repository contains and what the paper is about.
 
 ```
 .
-├── data/               # processed data to run the scripts
-├── scripts/            # analysis notebooks used to generate figures/tables
-├── figures/            # generated figures
-├── environment.yml     # conda environment specification
+├── data/                # processed data to run the scripts
+├── scripts/             # analysis notebooks used to generate figures/tables
+├── figures/             # generated figures
+├── environment.yml      # conda environment specification
+├── requirements.txt     # pip environment specification
 └── README.md
 ```
 
