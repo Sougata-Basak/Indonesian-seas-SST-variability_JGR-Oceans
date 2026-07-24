@@ -25,7 +25,7 @@ Brief description of what this repository contains and what the paper is about.
 git clone https://github.com/Sougata-Basak/Indonesian-seas-SST-variability_JGR-Oceans.git
 cd Indonesian-seas-SST-variability_JGR-Oceans
 conda env create -f environment.yml
-conda activate <env-name>
+conda activate indonesian-seas-sst
 ```
 
 Or with pip:
