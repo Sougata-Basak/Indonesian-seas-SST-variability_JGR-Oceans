@@ -77,11 +77,13 @@ If you use this code, please cite:
 
 ```bibtex
 @article{basak2026indonesianseas,
-  title   = {Monsoonal wind-driven ocean dynamics drive seasonal sea surface temperature variability in the Indonesian seas},
+  title   = {Monsoonal wind-driven ocean dynamics drive seasonal sea surface temperature variability in the {Indonesian} seas},
   author  = {Basak, Sougata and Nikurashin, Maxim and Pe{\~n}a-Molino, Beatriz and Sloyan, Bernadette M. and Phillips, Helen},
   journal = {Journal Name},
+  volume  = {131},
+  pages   = {e2026JC024434}
   year    = {2026},
-  doi     = {10.xxxx/xxxxx}
+  doi     = {10.1029/2026JC024434}
 }
 ```
 
