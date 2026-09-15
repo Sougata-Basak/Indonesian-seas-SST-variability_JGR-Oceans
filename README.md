@@ -2,7 +2,7 @@
 
 Code accompanying the paper:
 
-> **Basak, S., Nikurashin, M., Peña-Molino, B., Sloyan, B. M., Phillips, H.** "Monsoonal wind-driven ocean dynamics drive seasonal sea surface temperature variability in the Indonesian seas." *Journal/Venue*, Year. [DOI or arXiv link]
+> **Basak, S., Nikurashin, M., Peña‐Molino, B., Sloyan, B. M., & Phillips, H. (2026)**. Monsoonal wind‐driven ocean dynamics drive seasonal sea surface temperature variability in the Indonesian seas. Journal of Geophysical Research: Oceans, 131, e2026JC024434. https://doi.org/10.1029/2026JC024434
 
 ## Overview
 
