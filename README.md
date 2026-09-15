@@ -81,7 +81,7 @@ If you use this code, please cite:
   author  = {Basak, Sougata and Nikurashin, Maxim and Pe{\~n}a-Molino, Beatriz and Sloyan, Bernadette M. and Phillips, Helen},
   journal = {Journal Name},
   volume  = {131},
-  pages   = {e2026JC024434}
+  pages   = {e2026JC024434},
   year    = {2026},
   doi     = {10.1029/2026JC024434}
 }
